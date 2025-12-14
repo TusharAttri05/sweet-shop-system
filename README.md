@@ -88,5 +88,9 @@ sweet-shop-system/
 │   └── package.json
 │
 ├── screenshots/
+<img width="1920" height="1080" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/a0eb6fb2-30d4-46b4-8ac0-26fb8ee289c7" />
+<img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/68103aee-0c62-479b-b292-48f55a0a7cd4" />
+<img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/e06d7f0d-231b-49ff-925d-9adac55f0ee1" />
+<img width="1920" height="1080" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/2c825cc9-526a-4313-bf64-455da58a8394" />
 ├── README.md
 └── .gitignore
